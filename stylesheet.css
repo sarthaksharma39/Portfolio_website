@@ -1,0 +1,118 @@
+.first-color { 
+	background: #ececec; 
+}	
+.second-color { 
+	background: #9fd3c7; 
+}
+.third-color { 
+	background: #38517099; 
+}
+.fourth-color { 
+	background: #142d4c; 
+}
+
+
+body{
+    background-color: #142d4c ;
+    color: #142d4c;
+}
+.mainframe1{
+    background-color: #a1d4c8e6;
+    height: 31vw;
+    width: 70%;
+    margin: 0vh 23% 0vw 10vw;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: 0;
+}
+.mainframe2{
+    background-color: #b2855b;
+    height: 31vw;
+    width: 70%;
+    margin: 0vw 23% 0vw 10vw;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    z-index: 0;
+    color: aliceblue;
+}
+
+.logo{
+    height: 4vw;
+    width: 4vw;
+    border-radius: 50%;
+    margin-left: 2vw;
+    float: left;
+    
+}
+.topHeading{
+    
+    font-size: 40px;
+    color: #ececec;
+    margin-left: 23%;
+}
+.Photo{
+    float: left;
+    margin: 0vw 25vw ;
+    margin-left: 24vw;
+    height: 28vw;
+    width: 28vw;
+    z-index: 3;
+}
+.backgCircle{
+
+    border-radius: 50%;
+    background-color: #38517099;
+    z-index: 2;
+    height: 25vw;
+    width: 25vw;
+    margin-left: 23vw;
+}
+
+.introText{
+    float: left;
+    color: #142d4c;
+    position: absolute;
+    margin-left: 3.8vw;
+    
+}
+.intro1{
+    margin-top: 8.5vw;
+    font-size: 40px;
+}
+.intro2{
+    font-size: 55px;
+}
+.introLine{
+    background-color: #38517099;
+    height: 5px;
+    width: 14vw;
+    margin-bottom: 8px;
+}
+.introDesc{
+    width: 20vw;
+}
+
+
+
+.backgbox1{
+    background-color: #38517099;
+    height: 3vw;
+    width: 52vw;
+    margin-top: 3vw;
+    margin-left: 10vw;
+    z-index: 1;
+}
+.backgbox2{
+    background-color: #9fd3c7;
+    height: 3vw;
+    width: 52vw;
+    margin-left: 10vw;
+    z-index: 1;
+}
+.brand1{
+    height: 4vw;
+    width: 5vw;
+    margin-left: 2vw;
+    margin-top: 7px;
+    float: left;
+}
